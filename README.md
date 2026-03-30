@@ -42,6 +42,12 @@ Coming soon.
 
 ---
 
+## Acknowledgements
+
+The Alti-2 USB serial protocol implementation is based on the reverse-engineering work by [**evilwombat/alti2reader**](https://github.com/evilwombat/alti2reader) (GPL-3.0). Big thanks to that project for doing the hard work of mapping the TEA encryption key derivation and binary packet format — without it this app wouldn't exist.
+
+---
+
 ## About Cloudbase
 
 Cloudbase is a skydiving logbook and social platform — Strava meets Instagram for skydivers. Auto-syncs jumps from Burble, tracks milestones, and connects you with the DZ community.
